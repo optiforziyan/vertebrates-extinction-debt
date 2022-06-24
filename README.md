@@ -2,7 +2,7 @@
 
 ## Data availability
 
-###  The ensemble weighted forest cover dataset as well as the species richness maps of mammals, amphibians and reptiles grouped by IUCN Red List categories constructed in the present study are publicly available here. 
+The ensemble weighted forest cover dataset as well as the species richness maps of mammals, amphibians and reptiles grouped by IUCN Red List categories constructed in the present study are publicly available here. 
 
 
 ## Code availablility
