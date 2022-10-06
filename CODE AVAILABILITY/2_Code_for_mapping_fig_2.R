@@ -15,6 +15,7 @@ setwd("D:/OneDrive/SCI_Publications/Extinction_Debt_In_draft/DATA AVAILABILITY")
 
 # Load the necessary packages
 library(raster)
+library(SpatialPack)
 
 # For calculating Pearson's and the corresponding P values, we create a new function called "Cor_Analysis"
 
