@@ -47,8 +47,9 @@ Cor_Analysis <- function(Taxon = c("Amphibians", "Mammals", "Reptiles"),
   anaysis_table <- as.data.frame(cbind("Animal_SR" = x, "Forest_Cover" = y,"Coords" = coords))
   anaysis_table <- anaysis_table[complete.cases(anaysis_table),]
   
-  # Calculate the Pearson's correlation coefficient
-  w <- cor.test(anaysis_table[, 1], anaysis_table[,2])
+  # Calculate the Pearson's correlation coefficient using modified T-test
+  # w <- cor.test(anaysis_table[, 1], anaysis_table[,2])
+  w <- modified.ttest(anaysis_table[, 1], anaysis_table[,2], coords)
   w
   
   # Store the result
