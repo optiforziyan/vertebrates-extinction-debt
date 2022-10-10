@@ -55,7 +55,7 @@ Cor_Analysis <- function(Taxon = c("Amphibians", "Mammals", "Reptiles"),
   
   # Store the result
   Res <- data.frame("Taxon" = Taxon, "redlistCategory" = redlistCategory, 'Resolution'= Resolution,"Methods" = Methods, 
-                    'Year' = Year, "Pearson R" = round(w[["estimate"]][["cor"]],3),"P value" = w[["p.value"]])
+                    'Year' = Year, "Pearson R" = round(w[["corr"]],3),"P value" = round(w[["p.value"]],3))
   
   # Return result
   return(Res)
