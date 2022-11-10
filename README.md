@@ -1,4 +1,4 @@
-# Half-millennium evidence suggested extinction debts of global vertebrates started since the Second Industrial Revolution
+# Half-millennium evidence suggests that extinction debts of global vertebrates started in the Second Industrial Revolution
 
 ## Data availability
 
