@@ -18,4 +18,4 @@ Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, Peopl
 
 
 ## Citation
-Liao, Z., Peng, S., Chen, Y. Half-millennium evidence suggested extinction debts of global vertebrates started since the Second Industrial Revolution. Communications Biology. In press. https://doi.org/10.1038/s42003-022-04277-w.
+Liao, Z., Peng, S. & Chen, Y. Half-millennium evidence suggests that extinction debts of global vertebrates started in the Second Industrial Revolution. Commun Biol 5, 1311 (2022). https://doi.org/10.1038/s42003-022-04277-w
